@@ -1,5 +1,5 @@
 # MenuScraper
-Anaphylaxis is a serious allergic reaction that is rapid in onset and may cause death. With more careful preventative measures, decreasing the occurrence of these episodes becomes more realistic. Being aware of problematic menu items containing anaphylaxis "triggers" is an important first step in precautionary measures. The purpose of this project is to visit the allmenus.com website and retrieve the contents of each restaurant's menu.
+Anaphylaxis is a serious allergic reaction that is rapid in onset and may cause death. With more careful preventative measures, decreasing the occurrence of these episodes becomes more realistic. Being aware of problematic menu items containing anaphylaxis "triggers" is an important first step in precautionary measures. The purpose of this project is to visit the allmenus.com website and retrieve the contents of a given list of restaurants' menus.
 
 This project is composed of three scripts that each perform a separate function:
 
